@@ -1377,6 +1377,7 @@ dependencies = [
  "actix-web",
  "actix-web-actors",
  "diesel",
+ "libsqlite3-sys",
  "rand",
  "serde",
  "serde_json",
