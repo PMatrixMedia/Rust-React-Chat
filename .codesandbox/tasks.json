@@ -8,6 +8,10 @@
       "name": "cargo watch -x run",
       "command": "cargo watch -x run",
       "runAtStart": true
+    },
+    "cargo install diesel_cli --no-default-features --features sqlite": {
+      "name": "cargo install diesel_cli --no-default-features --features sqlite",
+      "command": "cargo install diesel_cli --no-default-features --features sqlite"
     }
   }
 }
